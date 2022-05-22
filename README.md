@@ -40,3 +40,8 @@ I am a Front end developer with knowledge of Back end too 🌐, I usually develo
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/LuisMM24/LuisMM24/main/assets/language_and_tools/vsCode/VSCode-Dark.svg" alt="vscode"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/LuisMM24/LuisMM24/main/assets/language_and_tools/git-scm/git-scm.svg" alt="git"/></a>
 <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/LuisMM24/LuisMM24/main/assets/language_and_tools/firebase/firebase.svg" alt="firebase"/></a>
+
+### 📊 Github Stats
+
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=luismm24&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luismm24&layout=compact)
