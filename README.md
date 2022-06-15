@@ -35,7 +35,6 @@ I am a Front end developer with knowledge of Back end too 🌐, I usually develo
 <a href="https://laravel.com/" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/LuisMM24/LuisMM24/main/assets/language_and_tools/laravel/Laravel-Dark.svg" alt="laravel"/></a>
 <a href="https://www.docker.com/" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/LuisMM24/LuisMM24/main/assets/language_and_tools/docker/docker.svg" alt="docker"/></a>
 <a href="https://mariadb.org/" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/LuisMM24/LuisMM24/main/assets/language_and_tools/mysql/MySQL-Dark.svg" alt="mysql"/></a>
-<a href="https://www.nginx.com/" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/LuisMM24/LuisMM24/main/assets/language_and_tools/nginx/nginx.svg" alt="nginx"/></a>
 <a href="https://stackoverflow.com/" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/LuisMM24/LuisMM24/main/assets/language_and_tools/stackOverflow/StackOverflow-Dark.svg" alt="stackoverflow"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/LuisMM24/LuisMM24/main/assets/language_and_tools/vsCode/VSCode-Dark.svg" alt="vscode"/></a>
 <a href="https://git-scm.com/" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/LuisMM24/LuisMM24/main/assets/language_and_tools/git-scm/git-scm.svg" alt="git"/></a>
