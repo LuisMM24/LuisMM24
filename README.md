@@ -4,11 +4,10 @@ I am a Front end developer with knowledge of Back end too 🌐, I usually develo
 
 ### 🧐 More About Me:
 
-- 🔭 I’m currently working for <a href="https://www.mvst.co/home">MVST</a>
+- 🚀 I’m currently working for <a href="https://www.mvst.co/home">MVST</a>
 - 👀 I’m interested in all refered with technology, and videogames!
 - 🌱 I’m currently learning about ReactJS and Javascript world!
 - 📫 How to reach me luismateo2416@gmail.com or visit my <a href="https://www.linkedin.com/in/luis-molina-mateo/">LinkedIn</a>
-- 🚀 I'm currently working in my Portfolio
 
 <br>
 
