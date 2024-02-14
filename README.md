@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Luis Molina
 
-I am a Front end developer with knowledge of Back end too 🌐, I usually develop apps in ReactJS, React Native, Typescript, JavaScript, CSS and HTML. I love exploring new tech stack 💻
+I am a Frontend developer with knowledge on Backend too 🌐, I usually develop apps in NextJS, React Native, Typescript, JavaScript, CSS and HTML. I love exploring new tech stack 💻
 
 ### 🧐 More About Me:
 
